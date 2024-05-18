@@ -6,7 +6,7 @@
 <!--<img src="[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ViverHoll)](https://git.io/typing-svg)">-->
 
 <div id="badges" align="center">
-  <h1 align="center">Hi there, I'm Nikita
+  <h1 align="center">Привет! Я Никита
   <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   <p>
   <a href="https://t.me/l09l08l07l">
@@ -14,7 +14,7 @@
   </a></p></h1>
 </div>
 
-<h3 align="center">Student of the 11th engineering class 💻</h3>
+<h3 align="center">Ученик 11го инженерного класса 💻</h3>
 
 <!--<img align="center" src="https://komarev.com/ghpvc/?username=ViVerHoll&style=flat-square&color=blue" alt=""/>-->
 
