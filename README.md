@@ -4,8 +4,8 @@
 <img align="center" src="[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)">
 
 <h1 align="center">Hi there, I'm Nikita
-<img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
-<img src="https://img.shields.io/badge/Telegram%20-2AABEE">
+<img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
+<img src="https://img.shields.io/badge/Telegram%20-2AABEE"></h1>
 
 <h3 align="center">Student of the 11th engineering class 💻</h3>
 
@@ -32,8 +32,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<h3>Социальные сети</h3>
-<img src="https://img.shields.io/badge/Telegram%20-2AABEE">
 
 
 ### :fire: My Stats :
