@@ -3,10 +3,9 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)-->
 <img align="center" src="[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)">
 
-<h1 align="center">Hi there, I'm Nikita
-<img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
-
 <div id="badges" align="center">
+  <h1 align="center">Hi there, I'm Nikita
+  <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
   <a href="https://t.me/l09l08l07l">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=2AABEE" alt="Телеграм"/>
   </a>
