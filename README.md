@@ -7,6 +7,9 @@
 <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
 
 <div id="badges">
+  <a href="https//t.me/l09l08l07l">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=2AABEE" alt="Телеграм"/>
+  </a>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -17,7 +20,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<h1 align="center"><img src="https://img.shields.io/badge/Telegram%20-2AABEE"></h1>
 
 <h3 align="center">Student of the 11th engineering class 💻</h3>
 
