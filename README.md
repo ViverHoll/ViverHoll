@@ -2,7 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student of the 11th engineering class 💻</h3>
 
-
+<h3>Технологии</h3>
+<img src="https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F621%2F411%2Fpng-transparent-computer-icons-python-anaconda-anaconda-angle-other-animals.png&lr=213&p=1&pos=26&rpt=simage&text=пайтон%20с%20пустым%20задним%20фоном%20скачать">
 <!--
 **ViverHoll/ViverHoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
