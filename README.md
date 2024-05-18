@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=ViverHoll">
 
 <h1 align="center">Hi there, I'm Nikita
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img align= "center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student of the 11th engineering class 💻</h3>
 
 <h2>Обо мне</h2>
