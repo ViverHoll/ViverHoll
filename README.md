@@ -5,10 +5,10 @@
 
 <div id="badges" align="center">
   <h1 align="center">Hi there, I'm Nikita
-  <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
+  <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
   <a href="https://t.me/l09l08l07l">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=2AABEE" alt="Телеграм"/>
-  </a>
+  </a></h1>
 </div>
 
 <h3 align="center">Student of the 11th engineering class 💻</h3>
