@@ -6,7 +6,8 @@
 <h1 align="center">Hi there, I'm Nikita
 <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
 <h3 align="center">Student of the 11th engineering class 💻</h3>
-<img align="center" src="https://komarev.com/ghpvc/?username=ViVerHoll&style=flat-square&color=blue" alt=""/>
+
+<!--<img align="center" src="https://komarev.com/ghpvc/?username=ViVerHoll&style=flat-square&color=blue" alt=""/>-->
 
 <h2>Обо мне</h2>
 <p></p>Начал учить программирование в 7 классе. После того как успешно выучил необходимые знания Python начал писать всякие програмки, парсеры, десктоп-приложения. Потом перешел на телеграм ботов, и как видите, мне эта сфера очень понравилась :)
@@ -15,10 +16,8 @@
 - Ботов пишу почти 2 года 🤖
 </p>
 
-<h3>Технологии</h3>
+### :hammer_and_wrench: Языки и Инструменты:
 
-
-<h3>Инструменты</h3>
 
 <h3>Социальные сети</h3>
 <img src="https://img.shields.io/badge/Telegram%20-2AABEE">
