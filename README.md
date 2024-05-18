@@ -19,6 +19,7 @@
 <h3>Инструменты</h3>
 
 <h3>Социальные сети</h3>
+<img src="https://img.shields.io/badge/Telegram%20-8A2BE2">
 <!--
 **ViverHoll/ViverHoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
