@@ -20,6 +20,11 @@
 
 <h3>Социальные сети</h3>
 <img src="https://img.shields.io/badge/Telegram%20-2AABEE">
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViverHoll)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ViverHoll/ViverHoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
