@@ -6,18 +6,9 @@
 <h1 align="center">Hi there, I'm Nikita
 <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https//t.me/l09l08l07l">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=2AABEE" alt="Телеграм"/>
-  </a>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
