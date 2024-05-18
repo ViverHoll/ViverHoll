@@ -1,16 +1,17 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<center>
+<!--<center>
   <img align="center" src="https://readme-typing-svg.demolab.com/?lines=ViverHoll">
-</center>
+</center>-->
 <!--<img src="[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ViverHoll)](https://git.io/typing-svg)">-->
 
 <div id="badges" align="center">
   <h1 align="center">Hi there, I'm Nikita
-  <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
+  <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+  <p>
   <a href="https://t.me/l09l08l07l">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=2AABEE" alt="Телеграм"/>
-  </a></h1>
+  </a></p></h1>
 </div>
 
 <h3 align="center">Student of the 11th engineering class 💻</h3>
