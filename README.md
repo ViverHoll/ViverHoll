@@ -5,6 +5,8 @@
 
 <h1 align="center">Hi there, I'm Nikita
 <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
+<img src="https://img.shields.io/badge/Telegram%20-2AABEE">
+
 <h3 align="center">Student of the 11th engineering class 💻</h3>
 
 <!--<img align="center" src="https://komarev.com/ghpvc/?username=ViVerHoll&style=flat-square&color=blue" alt=""/>-->
