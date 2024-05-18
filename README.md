@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi there, I'm Nikita
 <img src="https://tenor.com/ru/view/durgasoft-java-durga-coding-standards-gif-21245944" height="32"/></h1>
 <h3 align="center">Student of the 11th engineering class 💻</h3>
