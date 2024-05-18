@@ -1,9 +1,12 @@
+
+[![
+
 <h1 align="center">Hi there, I'm Nikita
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student of the 11th engineering class 💻</h3>
 
 <h3>Технологии</h3>
-<img src="https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Flogos-and-brands-adobe%2F512%2F267_Python-1024.png&lr=213&p=1&pos=23&rpt=simage&text=пайтон%20с%20пустым%20задним%20фоном%20скачать">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <!--
 **ViverHoll/ViverHoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
