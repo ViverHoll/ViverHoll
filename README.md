@@ -7,7 +7,7 @@
 <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
 
 <div id="badges" align="center">
-  <a href="https//t.me/l09l08l07l">
+  <a href="https://t.me/l09l08l07l">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=2AABEE" alt="Телеграм"/>
   </a>
 </div>
