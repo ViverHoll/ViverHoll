@@ -8,10 +8,7 @@
 <div id="badges" align="center">
   <h1 align="center">Привет! Я Никита
   <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-  <p>
-  <a href="https://t.me/l09l08l07l">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=2AABEE" alt="Телеграм"/>
-  </a></p></h1>
+  </h1>
 </div>
 
 <h3 align="center">Ученик 11го инженерного класса 💻</h3>
